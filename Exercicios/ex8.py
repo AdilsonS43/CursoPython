@@ -1,0 +1,7 @@
+medida = float(input('Digite um valor em metro: '))
+print(f'a medida de {medida} metros é igual a {medida*10} decímetros')
+print(f'a medida de {medida} metros é igual a {medida*100} centrímetros')
+print(f'a medida de {medida} metros é igual a {medida*1000} milímetros')
+print(f'a medida de {medida} metros é igual a {medida/10} decâmetros')
+print(f'a medida de {medida} metros é igual a {medida/100} hectômetros')
+print(f'a medida de {medida} metros é igual a {medida/1000} quilômetros')
